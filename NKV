@@ -1,1 +1,9 @@
+#include <iostream>  // header file for input/output
+
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;  // prints message
+    return 0;  // program ends
+}
 
